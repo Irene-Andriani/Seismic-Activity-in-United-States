@@ -1,8 +1,6 @@
-cd
+cd Documents/Seismic-Activity-in-United-States
 ls
 app.py
-
-git init
 git add app.py
 git commit -m "initial commit with app.py"
 git branch -M main
